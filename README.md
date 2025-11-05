@@ -22,6 +22,7 @@ Enter the gas cost for trip 3: 50.60
 Enter the gas cost for trip 4: 3.50
 
 ---Gas Expense Summary---
+
 Trip1: $50.6
 
 Trip2: $40.5
@@ -33,3 +34,4 @@ Trip4: $3.5
 The total gas spent: $145.2
 The average gas spent per trip: $36.3
 
+Edit added by Mason Cannon
