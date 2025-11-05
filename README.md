@@ -8,10 +8,12 @@ then outputs all the information given by user and calculates the total money sp
 ## Sample Output
 How many trips to get gas did you make?
 4
+
 Enter the gas cost for trip 1: 50.60
 Enter the gas cost for trip 2: 40.50
 Enter the gas cost for trip 3: 50.60
 Enter the gas cost for trip 4: 3.50
+
 ---Gas Expense Summary---
 Trip1: $50.6
 
