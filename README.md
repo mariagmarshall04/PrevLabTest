@@ -35,3 +35,6 @@ The total gas spent: $145.2
 The average gas spent per trip: $36.3
 
 Edit added by Mason Cannon
+
+## Collaboration Acknowledgement
+This project was reviewed and edited by Mason Cannon on GitHub
