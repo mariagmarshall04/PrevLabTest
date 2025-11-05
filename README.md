@@ -5,6 +5,13 @@ This is an upload of a previous lab to test the collaboration option within GitH
 this program stores the price of gas, distance, and amount of trips to get gas 
 then outputs all the information given by user and calculates the total money spend on gas and average gas spent per trip
 
+## How to Run
+1. Open the program in IDE
+2. Enter the amount of trips taken to get gas
+3. Input the amount of gas each trip costed
+4. View the calculated amount
+
+
 ## Sample Output
 How many trips to get gas did you make?
 4
